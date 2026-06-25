@@ -17,10 +17,10 @@
 
 ## 🔗 GitHub Repository
 
-[View GitHub Repository]([https://github.com/yourusername/your-repository](https://github.com/infinitycoders-046/SWTID-2026-4638-THEEPUNOORU-MITHUN-SANDESH))
+[View GitHub Repository](https://github.com/infinitycoders-046/SWTID-2026-4638-THEEPUNOORU-MITHUN-SANDESH)
 
 ---
 
 ## 🎥 Demo Video
 
-[Watch Demo Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/u/0/d/1LjN0KRbOlO5rK5GExNuhvq5NhCXLv2Rv/view?pli=1))
+[Watch Demo Video](https://drive.google.com/file/u/0/d/1LjN0KRbOlO5rK5GExNuhvq5NhCXLv2Rv/view?pli=1)
